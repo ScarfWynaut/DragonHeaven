@@ -400,7 +400,8 @@ exports.Formats = [
 	{
 		name: "Battle Factory",
 		section: "Randomized Metas",
-
+		
+		mod: 'gen7',
 		team: 'randomFactory',
 		ruleset: ['Pokemon', 'Sleep Clause Mod', 'Team Preview', 'HP Percentage Mod', 'Cancel Mod', 'Mega Rayquaza Clause'],
 	},
